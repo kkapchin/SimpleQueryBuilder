@@ -1,4 +1,4 @@
-#Usage
+# Usage
 ### 1. Set up your connection config:
 ```php
 Connection::setConfig()
